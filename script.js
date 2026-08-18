@@ -3,7 +3,7 @@ const SITE_CONFIG = {
   javaIp: "craftersofgodslove.mcserver.at",
   bedrockIp: "38.46.216.220",
   bedrockPort: "25777",
-  discordUrl: "https://discord.com/invite/UB5mFSA2p7",
+  discordUrl: "https://discord.gg/HghHRcVmb",
   versionText: "1.21.10"
 };
 

@@ -13,7 +13,7 @@ Official website source for the Crafters of God's Love Minecraft community.
 Open `index.html` in a browser for a basic preview. For the full site, make sure all referenced files inside `assets/` are present.
 
 ## GitHub collaboration
-Keep this repository private. Add approved staff as GitHub collaborators rather than sharing passwords.
+This repository is public. Never commit passwords, API keys, personal contact information, server-control credentials, or other private information.
 
 Suggested workflow:
 1. Pull the latest version before editing.
